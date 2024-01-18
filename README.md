@@ -38,3 +38,4 @@ You should have received a copy of the GNU Affero General Public License along w
 ### Commercial license
 
 The commercial license is designed to for you to use Chevereto in commercial products and applications, without the provisions of the AGPLv3. With the commercial license, your code is kept proprietary, to yourself. See the Chevereto Commercial License at [chevereto.com](https://chevereto.com/license)
+Forking for Acme Corp
